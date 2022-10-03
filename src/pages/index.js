@@ -15,7 +15,7 @@ export default function Index() {
         </div>
       </div>
       <img
-        className="w-8/12 md:w-4/12 lg:w-full m-auto lg:order-1"
+        className="w-8/12 md:w-4/12 lg:w-4/12 m-auto lg:order-1"
         src="/event.svg"
         alt="event example"
       />
