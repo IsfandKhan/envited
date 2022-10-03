@@ -3,7 +3,12 @@ import Index from "./pages/index";
 import Event from './pages/event';
 
 function App() {
-  return <Event /> //<Index />
+  return (
+    <>
+      <Index />
+      <Event />
+    </>
+  )
 }
 
 export default App;
